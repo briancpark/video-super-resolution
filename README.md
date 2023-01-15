@@ -27,3 +27,5 @@ There are a lot of comamnds associated with this project to learn how to use the
 ```sh
 python3 final.py -h
 ```
+
+The original source code is available to view [here](https://github.com/briancpark/csc791-025).
